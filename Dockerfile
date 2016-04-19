@@ -1,4 +1,4 @@
-FROM java:openjdk-8-jdk
+FROM java:openjdk-7-jdk
 
 ADD http://dl.google.com/android/android-sdk_r24.4.1-linux.tgz .
 
